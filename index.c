@@ -2,8 +2,8 @@
 
 void main()
 {
-    int a[100],i,j,n=5;
- for(i=0;i<n;i++)
+    int a[100],i,j,d=5;
+ for(i=0;i<d;i++)
    {
      scanf("%d",&a[i]); 
      printf("%d\t%d\n",a[i],i);
